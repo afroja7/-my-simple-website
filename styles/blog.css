@@ -1,4 +1,12 @@
 div{
     background-color: blueviolet ;
     padding: 20px;
+    margin: 10px;
+    border-radius: 50px;
+    font-size: large;
+    font-style: normal;
+}
+h1{
+    color: antiquewhite;
+text-decoration: underline;
 }
